@@ -11,6 +11,7 @@ import 'package:flutter/foundation.dart';
 
 import 'services/ai_service.dart';
 
+// Đã thêm Global Error Handling siêu cấp vip pro
 void main() {
   // Thực hiện bắt lỗi toàn cục (Global Error Handling) cho ứng dụng
   runZonedGuarded(() async {
