@@ -24,6 +24,10 @@ class ExcelCmtApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Đoạn code test này cố tình viết để Kodus AI review
+    var unused_variable = "Testing Kodus AI Review";
+    print(unused_variable);
+    
     return MaterialApp(
       title: 'Nhận xét đề tài',
       debugShowCheckedModeBanner: false,
